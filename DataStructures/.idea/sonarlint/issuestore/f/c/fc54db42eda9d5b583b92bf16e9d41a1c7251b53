@@ -1,0 +1,21 @@
+
+e
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Ôºô
+L	java:S106"9Replace this use of System.out or System.err by a logger.(Ôºô
+e
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ø½™×
+K	java:S106"9Replace this use of System.out or System.err by a logger.(“Î?
+d
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(“Î?
+8
+java:S3457"%String contains no format specifiers.(“Î?
+9
+java:S3457"%String contains no format specifiers.(ş«¯Ó
+L	java:S106"9Replace this use of System.out or System.err by a logger.(ş«¯Ó
+L	java:S106"9Replace this use of System.out or System.err by a logger.(ø½™×
+Š
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú7
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(ù©Í·øÿÿÿÿ
+e
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ş«¯Ó
+L	java:S106"9Replace this use of System.out or System.err by a logger.(¥€ 

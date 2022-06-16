@@ -1,0 +1,16 @@
+
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(ö£íåıÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(ÆÀûı
+e
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(‚‘Øˆ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(¯ô¸Ó
+L	java:S106"9Replace this use of System.out or System.err by a logger.(ÆÀûı
+L	java:S106"9Replace this use of System.out or System.err by a logger.(ÆÀûı
+L	java:S106"9Replace this use of System.out or System.err by a logger.(ÆÀûı
+m
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŒÃæå
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(²¿í‰øÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(‚‘Øˆ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(ÅÓÊüÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(Çíô¢
+L	java:S106"9Replace this use of System.out or System.err by a logger.(ªÊëÕ
